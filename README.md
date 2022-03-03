@@ -2,6 +2,8 @@
 
 ## Installation
 
+First, clone https://github.com/superpowerlabs/eve-id-nfts and deploy your contracts to localhost (or whatever you want).
+
 First, on Mac and Linux, install NVM (https://github.com/nvm-sh/nvm)
 
 ```
