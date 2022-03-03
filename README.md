@@ -20,9 +20,20 @@ npm i -g pnpm
 
 ```
 
-then install the dependencies, build the project and run it
+In the root you must have a `.env` file with content like in the example in `test-env.example`
 
-````
+When you have it, you can run the Postgres docker container with
+```
+bin/postgres.sh
+```
+
+If you do not have Docker, install it.
+
+To sign data locally, you must have a `env.js` file containing Infura API Key and the private key of the validator set up during the deployment of the contract.
+
+
+When ready, install the dependencies, build the project and run it
+
 ```
 pnpm i
 pnpm run build
