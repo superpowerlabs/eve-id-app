@@ -1,0 +1,6 @@
+INFURA_API_KEY=...
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=iKANTknowIT
+POSTGRES_DB=leaderboard
+PGDATA=`pwd`/pgdata
+NODE_ENV=development

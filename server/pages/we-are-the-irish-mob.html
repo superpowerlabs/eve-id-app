@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>We are the irish mob</title>
+    <link rel="icon" href="/favicon.png" />
+    <link rel="stylesheet" href="/styles/style.css" />
+    <style>
+      body,
+      div {
+        background: url(/dark-night-black-background.png) black;
+        color: white;
+        font-size: 1.4rem;
+        font-family: Modeco, sans-serif;
+      }
+      div {
+        text-align: center;
+        padding-top: 200px;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="padding: 100px">
+      <p>Someone wonders if you have a solution</p>
+      <input type="text" />
+      <button onClick="CatchMeIfYouCan">Submit</button>
+    </div>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-NMH0F768FX"
+    ></script>
+    <script>
+      if (!/local/.test(window.location.origin)) {
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+
+        gtag("js", new Date());
+
+        gtag("config", "G-NMH0F768FX");
+      }
+    </script>
+  </body>
+</html>

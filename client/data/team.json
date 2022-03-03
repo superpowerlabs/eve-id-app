@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Roy Liu",
+    "role": "Co-founder",
+    "img": "roy-liu",
+    "job": "ROY-LU_work"
+  },
+  {
+    "name": "Mihai Pohontu",
+    "role": "Co-founder",
+    "img": "mihai-pohontu",
+    "job": "MIHAI-POHONTU_work"
+  },
+  {
+    "name": "Francesco Sullo",
+    "role": "Blockchain Lead",
+    "img": "Francesco-Sullo",
+    "job": "FRANCESCO-SULLO-work"
+  },
+  {
+    "name": "Devansh K",
+    "role": "Ops Lead",
+    "img": "devansh-k",
+    "job": "DEVANSH-K_work"
+  },
+  {
+    "name": "Zhimin He",
+    "role": "Product Lead",
+    "img": "zhimin-he",
+    "job": "ZHIMIN-HE_work"
+  },
+  {
+    "name": "Vlad Anghelahar",
+    "role": "Engineering Lead",
+    "img": "vlad-anghalehar",
+    "job": "VLAD-ANGHALEHAR_work"
+  },
+  {
+    "name": "Maxim Garber",
+    "role": "Design Lead",
+    "img": "maxim-garber",
+    "job": "MAXIM-GARBER_work"
+  },
+  {
+    "name": "Gwen Heiou",
+    "role": "Art Lead",
+
+    "img": "gwen-heliou",
+    "job": "GWEN-HELIOU_work"
+  }
+]
